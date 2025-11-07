@@ -1,4 +1,4 @@
-##Dive into Tails
+## Dive into Tails
 
 Today, where Google knows everything, Facebook analyses your faces during a video chat and Edward Snowden is hunted by the United States, privacy on the Internet becomes more and more a privilege than a standard. Because of this grievance some developers decide to create a live distribution which allows you to use the Internet in a more anonymous and secure way. This distribution is called Tails an acronym for "The Amnesic Incognito Live System". In short it's a Debian based OS which routes all your network traffic through the TOR network mixed up with some nice OpenPGP encryption features and the possibility to set up a LUKS encrypted partition to persist your data. If you want more information about the Tails project take a look at the official project page https://tails.boum.org/
 
